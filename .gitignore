@@ -57,3 +57,23 @@ typings/
 # dotenv environment variables file
 .env
 
+# Vuejs build result and test
+dist/
+test/unit/coverage
+test/e2e/reports
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
